@@ -1,0 +1,9 @@
+C:\Users\Adam\documents\visual studio 2013\Projects\SmokeExample\SmokeExample\bin\WindowsGL\Debug\SmokeExample.exe
+C:\Users\Adam\documents\visual studio 2013\Projects\SmokeExample\SmokeExample\bin\WindowsGL\Debug\SmokeExample.pdb
+C:\Users\Adam\documents\visual studio 2013\Projects\SmokeExample\SmokeExample\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\SmokeExample\SmokeExample\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\SmokeExample\SmokeExample\obj\x86\Debug\SmokeExample.csprojResolveAssemblyReference.cache
+C:\Users\Adam\documents\visual studio 2013\Projects\SmokeExample\SmokeExample\obj\x86\Debug\SmokeExample.exe
+C:\Users\Adam\documents\visual studio 2013\Projects\SmokeExample\SmokeExample\obj\x86\Debug\SmokeExample.pdb
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\SmokeExample\SmokeExample\bin\WindowsGL\Debug\Content\particlesmoke.xnb
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\SmokeExample\SmokeExample\bin\WindowsGL\Debug\Content\particlesmoke.png

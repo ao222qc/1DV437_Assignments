@@ -1,0 +1,8 @@
+c:\users\adam\documents\visual studio 2013\Projects\ParticleEffects\ParticleEffects\bin\WindowsGL\Debug\ParticleEffects.exe
+c:\users\adam\documents\visual studio 2013\Projects\ParticleEffects\ParticleEffects\bin\WindowsGL\Debug\ParticleEffects.pdb
+c:\users\adam\documents\visual studio 2013\Projects\ParticleEffects\ParticleEffects\bin\WindowsGL\Debug\MonoGame.Framework.dll
+c:\users\adam\documents\visual studio 2013\Projects\ParticleEffects\ParticleEffects\bin\WindowsGL\Debug\OpenTK.dll
+c:\users\adam\documents\visual studio 2013\Projects\ParticleEffects\ParticleEffects\obj\x86\Debug\ParticleEffects.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2013\Projects\ParticleEffects\ParticleEffects\obj\x86\Debug\ParticleEffects.exe
+c:\users\adam\documents\visual studio 2013\Projects\ParticleEffects\ParticleEffects\obj\x86\Debug\ParticleEffects.pdb
+c:\users\adam\documents\visual studio 2013\Projects\ParticleEffects\ParticleEffects\bin\WindowsGL\Debug\Content\spark.xnb
