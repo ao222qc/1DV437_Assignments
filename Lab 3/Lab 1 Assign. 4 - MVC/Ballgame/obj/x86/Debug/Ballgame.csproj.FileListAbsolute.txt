@@ -1,0 +1,8 @@
+c:\users\adam\documents\visual studio 2013\Projects\Ballgame\Ballgame\bin\WindowsGL\Debug\Ballgame.exe
+c:\users\adam\documents\visual studio 2013\Projects\Ballgame\Ballgame\bin\WindowsGL\Debug\Ballgame.pdb
+c:\users\adam\documents\visual studio 2013\Projects\Ballgame\Ballgame\bin\WindowsGL\Debug\MonoGame.Framework.dll
+c:\users\adam\documents\visual studio 2013\Projects\Ballgame\Ballgame\bin\WindowsGL\Debug\OpenTK.dll
+c:\users\adam\documents\visual studio 2013\Projects\Ballgame\Ballgame\obj\x86\Debug\Ballgame.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2013\Projects\Ballgame\Ballgame\obj\x86\Debug\Ballgame.exe
+c:\users\adam\documents\visual studio 2013\Projects\Ballgame\Ballgame\obj\x86\Debug\Ballgame.pdb
+C:\Users\Adam\documents\visual studio 2013\Projects\Ballgame\Ballgame\bin\WindowsGL\Debug\Content\globe.png

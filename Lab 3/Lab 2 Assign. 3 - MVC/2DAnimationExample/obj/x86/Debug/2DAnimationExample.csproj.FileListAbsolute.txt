@@ -1,0 +1,9 @@
+c:\users\adam\documents\visual studio 2013\Projects\2DAnimationExample\2DAnimationExample\bin\WindowsGL\Debug\Content\explosion.xnb
+c:\users\adam\documents\visual studio 2013\Projects\2DAnimationExample\2DAnimationExample\bin\WindowsGL\Debug\Content\explosion.png
+c:\users\adam\documents\visual studio 2013\Projects\2DAnimationExample\2DAnimationExample\bin\WindowsGL\Debug\2DAnimationExample.exe
+c:\users\adam\documents\visual studio 2013\Projects\2DAnimationExample\2DAnimationExample\bin\WindowsGL\Debug\2DAnimationExample.pdb
+c:\users\adam\documents\visual studio 2013\Projects\2DAnimationExample\2DAnimationExample\bin\WindowsGL\Debug\MonoGame.Framework.dll
+c:\users\adam\documents\visual studio 2013\Projects\2DAnimationExample\2DAnimationExample\bin\WindowsGL\Debug\OpenTK.dll
+c:\users\adam\documents\visual studio 2013\Projects\2DAnimationExample\2DAnimationExample\obj\x86\Debug\2DAnimationExample.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2013\Projects\2DAnimationExample\2DAnimationExample\obj\x86\Debug\2DAnimationExample.exe
+c:\users\adam\documents\visual studio 2013\Projects\2DAnimationExample\2DAnimationExample\obj\x86\Debug\2DAnimationExample.pdb

@@ -1,0 +1,8 @@
+c:\users\adam\documents\visual studio 2013\Projects\Game2\Game2\obj\x86\Debug\Game2.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2013\Projects\Game2\Game2\bin\WindowsGL\Debug\Game2.exe
+c:\users\adam\documents\visual studio 2013\Projects\Game2\Game2\bin\WindowsGL\Debug\Game2.pdb
+c:\users\adam\documents\visual studio 2013\Projects\Game2\Game2\bin\WindowsGL\Debug\MonoGame.Framework.dll
+c:\users\adam\documents\visual studio 2013\Projects\Game2\Game2\bin\WindowsGL\Debug\OpenTK.dll
+c:\users\adam\documents\visual studio 2013\Projects\Game2\Game2\obj\x86\Debug\Game2.exe
+c:\users\adam\documents\visual studio 2013\Projects\Game2\Game2\obj\x86\Debug\Game2.pdb
+c:\users\adam\documents\visual studio 2013\Projects\Game2\Game2\bin\WindowsGL\Debug\Content\chesspiece.png
